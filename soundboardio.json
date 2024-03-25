@@ -1,0 +1,84 @@
+{
+  "name": "Ivánku, kamaráde, můžes mluvit?",
+  "shortName": "Ivanek",
+  "description": "My ten fotbal neděláme pro sebe!",
+  "author": {
+    "name": "Egin",
+    "url": "https://twitter.com/LazyLoadedLukas"
+  },
+  "color": "#EEEAC5",
+  "version": "1.0.0",
+  "lang": "cs",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "256x256",
+      "purpose": "maskable any",
+      "type": "image/svg"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Co to je za klauni",
+      "filename": "coToJeZaKlauni.mp3"
+    },
+    {
+      "name": "Čuráci mediální",
+      "filename": "curaciMedialni.mp3"
+    },
+    {
+      "name": "Já myslel, že mě jebne",
+      "filename": "jaMyslelZeMeJebne.mp3"
+    },
+    {
+      "name": "Mě bolí hlava jak střep",
+      "filename": "meBoliHlavaJakStrep.mp3"
+    },
+    {
+      "name": "Mě tečou nervy za vás",
+      "filename": "meTecouNervyZaVas.mp3"
+    },
+    {
+      "name": "Musíš to mít pod kontrolou",
+      "filename": "musiToMitPodKontrolou.mp3"
+    },
+    {
+      "name": "Nikdy nebyli v krizi",
+      "filename": "nebyliVKrizi.mp3"
+    },
+    {
+      "name": "Proč se do toho serou",
+      "filename": "procSeDoTohoSerou.mp3"
+    },
+    {
+      "name": "Támdle de nákej čurák",
+      "filename": "tamdleDeCurak.mp3"
+    },
+    {
+      "name": "To by člověk blil, Milane",
+      "filename": "toByClovekBlil.mp3"
+    },
+    {
+      "name": "Loď se potápí, bárka de ke dnu",
+      "filename": "tojekonec.mp3"
+    },
+    {
+      "name": "No to mi povídej",
+      "filename": "toMiPovidej.mp3"
+    },
+    {
+      "name": "Ty vole já nevim",
+      "filename": "tyvoleJaNevim.mp3"
+    },
+    {
+      "name": "Vám se ten fotbal jako líbil?",
+      "filename": "vamSeTenFotbalLibil.mp3"
+    }
+  ]
+}
