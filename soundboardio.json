@@ -79,6 +79,150 @@
     {
       "name": "Vám se ten fotbal jako líbil?",
       "filename": "vamSeTenFotbalLibil.mp3"
+    },
+    {
+      "name": "Jiný Důležitý",
+      "filename": "aJinyDulezity.mp3"
+    },
+    {
+      "name": "Abys to měl v ruce",
+      "filename": "abysToMelVRuce.mp3"
+    },
+    {
+      "name": "Ať máme trošku pohodlí",
+      "filename": "atMameTroskuPohodli.mp3"
+    },
+    {
+      "name": "Celý v hovně",
+      "filename": "celyVoHovne.mp3"
+    },
+    {
+      "name": "Dělá si to sám",
+      "filename": "delaSiToSam.mp3"
+    },
+    {
+      "name": "Dyť to není blbej",
+      "filename": "dytToNeniBlbej.mp3"
+    },
+    {
+      "name": "Fax nemáš co",
+      "filename": "faxNemasCo.mp3"
+    },
+    {
+      "name": "Já dělal, že nevidím",
+      "filename": "jaDelalZeNevidim.mp3"
+    },
+    {
+      "name": "Jak to vypadá, ty vole",
+      "filename": "jakToVypadaTyvole.mp3"
+    },
+    {
+      "name": "Jaký to je nápad",
+      "filename": "jakejToJeNapad.mp3"
+    },
+    {
+      "name": "Jestli bude chcat",
+      "filename": "jestliBudeChcat.mp3"
+    },
+    {
+      "name": "Jít štestičku naproti",
+      "filename": "jitStestickuNaproti.mp3"
+    },
+    {
+      "name": "Kluk srdcař",
+      "filename": "klukSrdcar.mp3"
+    },
+    {
+      "name": "Mám strategii",
+      "filename": "mamStrategii.mp3"
+    },
+    {
+      "name": "Na to se vyser",
+      "filename": "naToSeVyser.mp3"
+    },
+    {
+      "name": "Nazdar ty divočáku",
+      "filename": "nazdarTyDivochu.mp3"
+    },
+    {
+      "name": "Nebudu dělat čůráka",
+      "filename": "nebuduDelatCuraka.mp3"
+    },
+    {
+      "name": "Nech ho vycukat",
+      "filename": "nechHoVycukat.mp3"
+    },
+    {
+      "name": "Nechceš mi to dát emailem",
+      "filename": "nechcesMiToDatMailem.mp3"
+    },
+    {
+      "name": "Nedělám to pro sebe",
+      "filename": "nedelamToProSebe.mp3"
+    },
+    {
+      "name": "Nemluv mi v hovně",
+      "filename": "nemluvMiVoHovne.mp3"
+    },
+    {
+      "name": "No, nemám no",
+      "filename": "noNemamNo.mp3"
+    },
+    {
+      "name": "Pane Němec",
+      "filename": "paneNemec.mp3"
+    },
+    {
+      "name": "Pro mne je nepostradatelný",
+      "filename": "proMneJeNepostradatelnej.mp3"
+    },
+    {
+      "name": "Režie v prdeli",
+      "filename": "rezieVPrdeli.mp3"
+    },
+    {
+      "name": "Sáhnu na svaba",
+      "filename": "sahnuNaSvaba.mp3"
+    },
+    {
+      "name": "Ta byla přísná",
+      "filename": "taBylaPrisna.mp3"
+    },
+    {
+      "name": "Tady je taky sníh",
+      "filename": "tadyJeTakySnih.mp3"
+    },
+    {
+      "name": "Ti slezou nehty",
+      "filename": "tiSlezouNehty.mp3"
+    },
+    {
+      "name": "To je celý v počasí",
+      "filename": "toJeCelyVoPocasi.mp3"
+    },
+    {
+      "name": "To mi ho vyndej",
+      "filename": "toMiHoVyndej.mp3"
+    },
+    {
+      "name": "To právě nechci",
+      "filename": "toPraveNechci.mp3"
+    },
+    {
+      "name": "Tohle všecko je důležité",
+      "filename": "tohleVseckoJeDulezity.mp3"
+    },
+    {
+      "name": "Ty vole, ale počkej",
+      "filename": "tyvoleAlePockej.mp3"
+    },
+    {
+      "name": "Unavený jako koťe",
+      "filename": "unavenejJakoKote.mp3"
+    },
+    {
+      "name": "Volal Pelta",
+      "filename": "volalPelta.mp3"
     }
   ]
 }
